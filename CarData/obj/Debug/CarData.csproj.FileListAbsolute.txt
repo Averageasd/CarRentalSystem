@@ -1,0 +1,6 @@
+C:\Users\nhuyn\source\repos\CarRentalSystem\CarData\bin\Debug\CarData.dll
+C:\Users\nhuyn\source\repos\CarRentalSystem\CarData\bin\Debug\CarData.pdb
+C:\Users\nhuyn\source\repos\CarRentalSystem\CarData\obj\Debug\CarData.csproj.AssemblyReference.cache
+C:\Users\nhuyn\source\repos\CarRentalSystem\CarData\obj\Debug\CarData.csproj.CoreCompileInputs.cache
+C:\Users\nhuyn\source\repos\CarRentalSystem\CarData\obj\Debug\CarData.dll
+C:\Users\nhuyn\source\repos\CarRentalSystem\CarData\obj\Debug\CarData.pdb
